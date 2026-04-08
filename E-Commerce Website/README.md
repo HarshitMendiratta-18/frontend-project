@@ -27,13 +27,7 @@
 
 ---
 
-## 📸 Screenshots
 
-| Desktop View | Mobile View |
-| :--- | :--- |
-| ![Desktop Screenshot](https://via.placeholder.com/400x250?text=Desktop+Preview) | ![Mobile Screenshot](https://via.placeholder.com/150x250?text=Mobile+Preview) |
-
-*(Tip: Replace these placeholders with actual screenshots from your project to make it more impactful!)*
 
 ---
 
